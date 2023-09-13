@@ -1,4 +1,4 @@
-module gin-test
+module github.com/adward444/gin-test
 
 go 1.20
 
